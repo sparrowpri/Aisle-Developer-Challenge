@@ -1,6 +1,10 @@
 import re
 import math
+
+
 #console app to print required outputs,outputs can also be verified through unit_tests
+
+#output 3 seems formatted wrong in given outputs,it has been assumed and formatted correctly.
 class sales_tax:
     
     def __init__(self):
